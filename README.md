@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutuja Shete</h1>
 <h3 align="center">Software Engineer | Data Science & AI Enthusiast | SDE Intern @ Ness Digital Engineering</h3>
 
-<img align="right" alt="Coding" width="380" src="https://storyset.com/illustration/programming/amico">
-
 ---
 
 ### 👩‍💻 About Me
@@ -24,7 +22,8 @@ I have a strong foundation in **DSA, Machine Learning, and Software Engineering*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 <a href="https://github.com/rutujas11" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujas11&background=transparent&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=9f9f9f" height="150"/>
+
 </a>
 </p>
 
