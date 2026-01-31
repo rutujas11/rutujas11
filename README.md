@@ -48,14 +48,4 @@ I have a strong foundation in **DSA, Machine Learning, and Software Engineering*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rutujas11&show_icons=true&theme=radical" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujas11&theme=radical" height="150"/>
-</p>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=rutujas11&label=Profile%20Views&color=blue&style=flat" />
