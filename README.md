@@ -22,8 +22,7 @@ I have a strong foundation in **DSA, Machine Learning, and Software Engineering*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 <a href="https://github.com/rutujas11" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujas11&background=transparent&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=9f9f9f" height="150"/>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </a>
 </p>
 
