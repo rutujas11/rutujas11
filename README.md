@@ -8,9 +8,9 @@ I am a **Computer Science graduate with Honors in Data Science**, passionate abo
 I have a strong foundation in **DSA, Machine Learning, and Software Engineering**, along with hands-on industry internship experience.
 
 - 🎓 **BE – Computer Science (Hons. Data Science)** | CGPA **9.22**
-- 💼 **SDE Intern @ Ness Digital Engineering**
+- 💼 **Junior Software Engineer @ Ness Digital Engineering**
 - 🌱 Currently improving **System Design, MERN & Cloud**
-- 💬 Ask me about **Python, DSA, ML, DevOps**
+- 💬 Ask me about **Python, Java, DSA, ML, DevOps, React**
 - 📫 Reach me at **sheterutuja11@gmail.com**
 - ⚡ Fun fact: I love dancing 💃 and cooking 🍳
 
