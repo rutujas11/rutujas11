@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutuja Shete</h1>
-<h3 align="center">Software Engineer | Data Science & AI Enthusiast | SDE Intern @ Ness Digital Engineering</h3>
+<h3 align="center">Software Engineer | Data Science & AI Enthusiast | Junior Software Engineer @ Ness Digital Engineering</h3>
 
 ---
 
